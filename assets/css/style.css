@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Anton", sans-serif;
+}
+.start{
+    background-color:rgb(164, 162, 158);
+    border-radius: 10px;
+    padding: 20px;
+}
+body{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    height: 90vh;
+    margin-top: 10px;
+    margin-left: 10rem;
+    background-image: url(../img/bankbg.jpg);
+    background-size: cover;
+}
+
+h1{
+    font-size: 2.5rem;
+    text-align: center;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 10px;
+}
+p{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 10px;
+}
+.button{
+    margin-top: 10px;
+    position: relative;
+    align-items: center;
+    font-size: 1.2rem;
+    padding: 20px 8rem;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.button a{
+    font-weight: 600;
+    font-style: normal;
+    height: 60px;
+    width: 150px;
+    background-color: whitesmoke;
+    margin: auto;
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0px 8px  0px grey,0px 8px 20px #222222;
+    transition: all 0.2 ease;
+}
+
+.button a:active{
+    box-shadow: none;
+    top: 8px;
+}
