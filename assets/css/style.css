@@ -5,9 +5,10 @@
     font-family: "Anton", sans-serif;
 }
 .start{
-    background-color:rgb(164, 162, 158);
+    background-color:rgb(231, 215, 182);
     border-radius: 10px;
     padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 body{
     display: flex;
