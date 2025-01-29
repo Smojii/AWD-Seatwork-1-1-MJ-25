@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/pic.jpg" alt="pic" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 1</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This website will record all your bank transaction histories (e.g., deposits, withdrawals) with an account starting with a balance of 5000
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Smojii/AWD-Seatwork-1-1-MJ-25)
 
 ---
 
@@ -57,20 +57,13 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
-
+This project manages account transactions by initializing an account with a starting balance of 5000 and tracking all financial activities. Users can see the record deposits and withdrawals, ensuring accurate transaction history management.
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Account Initialization: Creates an account with a default balance of 5000.
+- Transaction Management: Records deposits and withdrawals, updating the balance accordingly.
+- Transaction History: Logs all transactions for review and financial tracking.
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -111,4 +104,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Image used | Picture of credit card. | https://www.freepik.com/premium-photo/contactless-payment-with-credit-card-store_34599089.htm?epik=dj0yJnU9dzdoY21NNlprQWs1ZVp4N2c1OU5mQzVRVWRmeUFHTUomcD0wJm49TERKNlVJVEhubXhKZHNTZGFnOVJ5dyZ0PUFBQUFBR2VZaXpJ |
+| Image used | Picture of Turtle. | https://ph.pinterest.com/pin/109212359708560781/ |
+| Image used | Landing Page Background Image. | https://www.freepik.com/premium-photo/bitcoin-banknotes-with-copy-space_5481187.htm |
+| Footer | Footer reference | https://new.gcash.com/ |
