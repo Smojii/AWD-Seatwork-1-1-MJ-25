@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/pic.jpg" alt="pic" width="130" height="100">
+    <img src="./assets/img/pic.jpg" alt="pic" width="100" height="110">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 1</h3>
@@ -65,6 +65,8 @@ This project manages account transactions by initializing an account with a star
 - Transaction Management: Records deposits and withdrawals, updating the balance accordingly.
 - Transaction History: Logs all transactions for review and financial tracking.
 
+### Deployment Link
+https://smojii.github.io/AWD-Seatwork-1-1-MJ-25/
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
